@@ -1,2 +1,3 @@
-# edge_shop
+# edge_shop using Django
+
  
